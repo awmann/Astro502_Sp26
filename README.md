@@ -17,3 +17,5 @@ While not required, I recommend creading a python enviroment using conda or UV. 
     ```bash
     python -m ipykernel install --user --name=astr502
     ```
+
+Hello class
